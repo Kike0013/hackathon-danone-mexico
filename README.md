@@ -23,4 +23,4 @@ You can explore the Home and Products page.
 
 ## Stack
 
-For this small project was used: NextJs 13, GraphQL and Contentful.
+For this small project was used: NextJs 13, Javascript, Tailwind, GraphQL and Contentful.
